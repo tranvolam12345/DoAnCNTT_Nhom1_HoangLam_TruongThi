@@ -1,0 +1,79 @@
+     SBD              Ho     Ten Phai    NgaySinh  Toan   Van AnhVan   DTN TongDiem     XepLoai  DoiTuongDT
+1      4        Dinh Thi     Tam    1  18/02/1982   5.0   8.5    5.5   5.0     21.0  Trung bình           1
+3      6       Dang Bich    Thuy    1  22/10/1982  10.0   9.0    9.0   9.0     30.0        Giỏi           1
+7     10       Tran Minh  Nguyet    1  07/12/1981   4.5   4.0    4.0   4.0     14.5       Trượt           1
+9     12         Le Thao    Dung    1  03/11/1982   5.0   6.5    5.5   5.0     19.0  Trung bình           1
+10    13      Luu Phuong   Thanh    1  25/02/1982   9.0   6.0    8.0   6.0     25.0         Khá           1
+11    14            Phan   Thanh    0  03/07/1981   6.0   5.5    8.0   5.5     21.5  Trung bình           1
+12    15        Pham Thu    Thuy    1  04/12/1981   8.0   6.5    7.5   6.5     24.0         Khá           1
+13    16       Dang Dinh     Tam    0  24/11/1981   4.0   6.0    5.0   4.0     17.0  Trung bình           1
+14    17        Tong Duc   Cuong    0  25/06/1982   5.0   6.5    4.0   4.0     17.5  Trung bình           1
+15    18        Tran Thu     Nga    1  14/09/1981   4.0   6.5    6.0   4.0     18.5  Trung bình           1
+16    19  Tran Thi Thanh   Giang    1  18/03/1982   4.0   6.0    6.0   4.0     18.0  Trung bình           1
+17    20      Truong Thi      My    1  16/08/1982   5.0   7.0    7.0   5.0     21.0  Trung bình           1
+18    21      Nguyen Thi     Hoa    1  27/11/1982  10.0   8.0    9.0   8.0     29.0        Giỏi           1
+19    22          Ha Son     Tri    0  27/08/1981   5.0   8.0    5.0   5.0     20.0  Trung bình           1
+20    23         Tang My    Hanh    1  28/10/1980   8.0   6.0    7.0   6.0     23.0         Khá           1
+21    24        Tran Thi     Tam    1  22/02/1982   7.0   5.0    7.0   5.0     21.0  Trung bình           1
+22    25        Pham Thi     Lua    1  24/07/1981   5.0   6.0    6.0   5.0     19.0  Trung bình           1
+24    27      Nguyen Thi   Tuyet    1  20/12/1981   8.0   6.0    9.0   6.0     25.0         Khá           1
+25    28          Vu Thi      No    1  02/04/1982   6.0   8.0    4.0   4.0     20.0  Trung bình           1
+28    31          Le Kim    Thoa    1  01/04/1982   7.0   5.5    5.0   5.0     19.5  Trung bình           1
+30    33        Tran Thi    Loan    1  25/11/1981   6.5   6.5    6.0   6.0     21.0         Khá           1
+31    34        Tran Thi     Nhi    1  18/11/1982   5.0   8.0    5.0   5.0     20.0  Trung bình           1
+33    36     Nguyen Ngoc    Bich    1  26/08/1981   6.0   6.0    6.5   6.0     20.5  Trung bình           1
+35    38      Nguyen Thu     Van    1  16/09/1982   6.5   5.5    5.0   5.0     19.0  Trung bình           1
+36    39        Phan Mai  Phuong    1  11/07/1981   8.0   6.0    8.0   6.0     24.0         Khá           1
+38    41      Nguyen Thi    Dung    1  25/11/1982   5.0   7.0    7.0   5.0     21.0  Trung bình           1
+41    44      Nguyen Van    Tien    1  07/10/1981   6.0   6.0    9.0   6.0     23.0         Khá           1
+45    48     Nguyen Thuy   Huong    1  14/12/1981  10.0   8.0   10.0   8.0     30.0        Giỏi           1
+46    49         Bui Van    Hung    0  25/08/1981   6.0   7.0    5.5   5.5     20.5  Trung bình           1
+49    52     Nguyen Lien  Phuong    1  17/09/1982   4.5   5.5    5.0   4.5     17.0  Trung bình           1
+51    54       To Phuong     Lan    1  10/10/1982   6.5   6.5    4.0   4.0     19.0  Trung bình           1
+54    57      Nguyen Van    Toan    0  09/06/1982   9.0   6.0    6.5   6.0     23.5         Khá           1
+56    59         Dao Thi     Tue    1  23/12/1982  10.0   8.5    9.0   8.5     29.5        Giỏi           1
+65    68        Lam Ngoc   Phuoc    0  17/02/1981   8.0   4.0    5.0   4.0     19.0  Trung bình           1
+67    70       Huynh Thi   Huong    1  19/05/1981   5.5   5.5    7.5   5.5     20.5  Trung bình           1
+68    71      Nguyen Thu      Ha    1  03/04/1982   5.0   9.0    7.0   5.0     23.0  Trung bình           1
+70    73       Tran Tham    Tuoi    1  04/02/1982   6.0   7.5    8.0   6.0     23.5         Khá           1
+71    74      Duong Cong    Bang    0  27/06/1981  10.0   6.0    8.0   6.0     26.0         Khá           1
+72    75        Le Trung    Kien    0  09/02/1982   8.5   6.5    6.0   6.0     23.0         Khá           1
+73    76      Nguyen Van  Nghiep    0  14/09/1982   8.0   7.0    8.5   7.0     25.5        Giỏi           1
+74    77      Nguyen Van    Minh    0  07/02/1981   8.0   7.5    9.0   7.5     26.5        Giỏi           1
+75    78        Ho Duong   Thanh    0  09/11/1981   4.5   6.5    4.0   4.0     17.0  Trung bình           1
+76    79      Quach Kieu     Mai    1  17/02/1982  10.0   9.0   10.0   9.0     31.0        Giỏi           1
+77    80         Dao Thi  Phuong    1  29/03/1982   3.5   4.0    5.5   3.5     15.0       Trượt           1
+82    85      Nguyen Van     Loi    0  02/02/1982   7.0   7.0   10.0   7.0     26.0        Giỏi           1
+83    86      Nguyen Duc   Thang    0  24/05/1981   5.5   6.5    6.5   5.5     20.5  Trung bình           1
+84    87         Bui Thi     Hue    1  19/12/1981   8.0   4.5    8.0   4.5     22.5  Trung bình           1
+85    88        Pham Thi     Mai    1  22/08/1981   5.0   5.5    6.0   5.0     18.5  Trung bình           1
+86    89      Nguyen Thi   Huong    1  30/11/1981   4.5   6.0    5.0   4.5     17.5  Trung bình           1
+87    90        Pham Van   Trang    0  06/05/1981   4.5   6.5    4.5   4.5     17.5  Trung bình           1
+106  109       Dang Minh    Quan    0  17/02/1982   7.0   7.0    8.0   7.0     24.0        Giỏi           1
+111  114      Nguyen Van   Thanh    0  13/11/1981  10.0  10.0   10.0  10.0     32.0        Giỏi           1
+113  116       Do Phuong     Nam    0  01/01/1982   7.5   7.0   10.0   7.0     26.5        Giỏi           1
+115  118         Tran My   Thanh    1  07/10/1981   4.0   4.0    4.5   4.0     14.5       Trượt           1
+116  119        Pham Van   Hoang    0  27/10/1982   4.5   5.5    6.5   4.5     18.5  Trung bình           1
+119  122     Nguyen Hong     Hoa    1  14/12/1981   6.5   6.5    6.0   6.0     21.0         Khá           1
+121  124        Tran Van    Minh    0  11/07/1982   5.5   5.0    5.0   5.0     17.5  Trung bình           1
+123  126    Nguyen Thanh   Trung    0  07/12/1982   4.5   6.5    4.5   4.5     17.5  Trung bình           1
+124  127      Nguyen Thi    Thao    1  30/01/1981   5.5   4.0    5.5   4.0     17.0  Trung bình           1
+128  131    Nguyen Thanh     Lam    0  24/03/1982   4.0   4.0    5.5   4.0     15.5  Trung bình           1
+130  133      Nguyen Van    Doan    0  15/10/1981   9.0   8.0    7.5   7.5     26.5        Giỏi           1
+132  135      Nguyen Van    Ngan    0  06/08/1981  10.0   8.5    9.0   8.5     29.5        Giỏi           1
+134  137     Nguyen Hong     Hoa    1  06/09/1981   5.0   6.0    5.5   5.0     18.5  Trung bình           1
+135  138         Le Hong    Hanh    1  16/12/1981   6.0   5.5    6.5   5.5     20.0  Trung bình           1
+136  139          Le Anh     Thu    1  31/01/1981   6.5   9.0    6.5   6.5     24.0         Khá           1
+137  140         Tran Le     Nga    1  27/11/1980   6.5   5.5    6.5   5.5     20.5  Trung bình           1
+142  145    Nguyen Thanh     Hai    0  07/12/1981   3.0   5.0    4.0   3.0     14.0       Trượt           1
+144  147        Mai Ngoc    Bich    1  08/10/1981  10.0   8.0   10.0   8.0     30.0        Giỏi           1
+146  149        Phan Huy    Hung    0  03/02/1981   9.0   8.5   10.0   8.5     29.5        Giỏi           1
+148  151        Dao Minh    Than    0  21/04/1982   5.0   5.0    6.0   5.0     18.0  Trung bình           1
+150  153       Tran Viet    Hong    0  07/04/1982   7.5   6.0    8.0   6.0     23.5         Khá           1
+152  155      Nguyen Kim    Loan    1  19/02/1981   7.0   5.5    3.5   3.5     18.0       Trượt           1
+153  156     Nguyen Cong  Truong    0  11/08/1982   4.0   7.5    5.0   4.0     18.5  Trung bình           1
+Tong sinh vien: 73
+Tong so truot: 5
+Tong so dau: 68
+Ti le truot: 6.8493150684931505
+Ti le dau: 93.15068493150685

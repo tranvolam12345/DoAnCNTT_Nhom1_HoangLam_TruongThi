@@ -1,0 +1,168 @@
+MYDATABASE
+Comment So Luong Field: 6, So Luong Mau Tin: 156
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+Comment SBD: So Bao Danh, DTDT: Doi Tuong Du Thi
+6
+SBD            1      11      I     
+Ho            12      15      C
+Ten           27       7      C
+Phai          34       2      B 
+NgaySinh      36      11      D
+DTDT          47       3      I
+156
+1          Nguyen Viet    Hong   0 04/04/1981 3  
+2          Nguyen Hong    Lanh   1 15/03/1982 1  
+3          Nguyen Minh    Quang  0 10/07/1982 3  
+4          Dinh Thi       Tam    1 18/02/1982 1  
+5          Nguyen Hoai    Anh    1 21/08/1982 3  
+6          Dang Bich      Thuy   1 22/10/1982 1  
+7          Hoang Thanh    Trang  1 12/08/1982 3  
+8          Tran Cat       Dung   1 04/12/1981 3  
+9          Pham Hoai      Bong   0 11/10/1980 3  
+10         Tran Minh      Nguyet 1 07/12/1981 1  
+11         Ma Thi Hong    Xuan   1 19/10/1981 3  
+12         Le Thao        Dung   1 03/11/1982 1  
+13         Luu Phuong     Thanh  1 25/02/1982 1  
+14         Phan           Thanh  0 03/07/1981 1  
+15         Pham Thu       Thuy   1 04/12/1981 1  
+16         Dang Dinh      Tam    0 24/11/1981 1  
+17         Tong Duc       Cuong  0 25/06/1982 1  
+18         Tran Thu       Nga    1 14/09/1981 1  
+19         Tran Thi Thanh Giang  1 18/03/1982 1  
+20         Truong Thi     My     1 16/08/1982 1  
+21         Nguyen Thi     Hoa    1 27/11/1982 1  
+22         Ha Son         Tri    0 27/08/1981 1  
+23         Tang My        Hanh   1 28/10/1980 1  
+24         Tran Thi       Tam    1 22/02/1982 1  
+25         Pham Thi       Lua    1 24/07/1981 1  
+26         Huynh Bach     Cuc    1 21/09/1980 2  
+27         Nguyen Thi     Tuyet  1 20/12/1981 1  
+28         Vu Thi         No     1 02/04/1982 1  
+29         Tran My        Dung   1 12/01/1982 2  
+30         Truong Minh    Thang  0 26/02/1982 2  
+31         Le Kim         Thoa   1 01/04/1982 1  
+32         Huynh Thanh    Nga    1 07/12/1980 2  
+33         Tran Thi       Loan   1 25/11/1981 1  
+34         Tran Thi       Nhi    1 18/11/1982 1  
+35         Lam Ngoc       Quan   0 28/08/1981 2  
+36         Nguyen Ngoc    Bich   1 26/08/1981 1  
+37         Vuong Kim      Anh    1 18/04/1982 2  
+38         Nguyen Thu     Van    1 16/09/1982 1  
+39         Phan Mai       Phuong 1 11/07/1981 1  
+40         Pham Thi       Thu    1 26/01/1982 2  
+41         Nguyen Thi     Dung   1 25/11/1982 1  
+42         Doan Thuy      Trang  1 19/11/1982 2  
+43         Hoang Van      Hoa    0 10/01/1982 2  
+44         Nguyen Van     Tien   0 07/10/1981 1  
+45         Du Thi Lieu    Dung   1 17/06/1982 2  
+46         Vu Kieu        Oanh   1 09/03/1982 2  
+47         Nguyen Trong   Nghiep 0 20/07/1981 2  
+48         Nguyen Thuy    Huong  1 14/12/1981 1  
+49         Bui Van        Hung   0 25/08/1981 1  
+50         Ly Cong        Duy    0 14/02/1982 2  
+51         Le Thi         Ly     1 28/05/1981 2  
+52         Nguyen Lien    Phuong 1 17/09/1982 1  
+53         Hoang Thi      Thuan  1 25/10/1981 2  
+54         To Phuong      Lan    1 10/10/1982 1  
+55         Tran Thi       Phuong 1 10/04/1981 2  
+56         Nguyen Dong    Lan    1 29/07/1982 2  
+57         Nguyen Van     Toan   0 09/06/1982 1  
+58         Diep Thuy      Phuong 1 13/12/1981 2  
+59         Dao Thi        Tue    1 23/12/1982 1  
+60         Tran Thi       Phan   1 24/01/1982 2  
+61         Tran Thi       Thuy   1 08/11/1982 3  
+62         Nguyen Mong    Kieu   1 23/08/1982 2  
+63         Duong Thi      Tuoi   1 24/12/1981 3  
+64         Nguyen Thi     Thuy   1 05/01/1982 2  
+65         Nguyen Thi     Le     1 21/06/1982 3  
+66         Nguyen Thi     Hanh   1 19/01/1981 3  
+67         Nguyen Van     Tam    0 02/07/1982 3  
+68         Lam Ngoc       Phuoc  0 17/02/1981 1  
+69         Phan Kim       Nga    1 24/08/1982 3  
+70         Huynh Thi      Huong  1 19/05/1981 1  
+71         Nguyen Thu     Ha     1 03/04/1982 1  
+72         Nguyen Van     Dung   0 17/12/1981 3  
+73         Tran Tham      Tuoi   1 04/02/1982 1  
+74         Duong Cong     Bang   0 27/06/1981 1  
+75         Le Trung       Kien   0 09/02/1982 1  
+76         Nguyen Van     Nghiep 0 14/09/1982 1  
+77         Nguyen Van     Minh   0 07/02/1981 1  
+78         Ho Duong       Thanh  0 09/11/1981 1  
+79         Quach Kieu     Mai    1 17/02/1982 1  
+80         Dao Thi        Phuong 1 29/03/1982 1  
+81         Tran Thi Ngoc  Han    1 26/07/1982 3  
+82         Tran Tuyet     Anh    1 12/06/1982 2  
+83         Nguyen Cam     Huong  1 02/03/1981 3  
+84         Nguyen Ngoc    Suong  1 11/09/1981 3  
+85         Nguyen Van     Loi    0 02/02/1982 1  
+86         Nguyen Duc     Thang  0 24/05/1981 1  
+87         Bui Thi        Hue    1 19/12/1981 1  
+88         Pham Thi       Mai    1 22/08/1981 1  
+89         Nguyen Thi     Huong  1 30/11/1981 1  
+90         Pham Van       Trang  0 06/05/1981 1  
+91         Tran Thuy      Tien   1 27/11/1980 2  
+92         Nguyen Minh    Dan    0 11/12/1982 3  
+93         Do Thi         Thao   1 18/10/1980 2  
+94         Phan Thi       Anh    1 13/07/1981 3  
+95         Dang Kim       Anh    1 18/10/1981 2  
+96         Le Tien        Dat    0 01/12/1982 3  
+97         Pham Hong      Tuyet  1 05/10/1981 2  
+98         Pham Thi       Chien  1 29/10/1981 3  
+99         Nguyen Thi     Binh   1 09/12/1982 2  
+100        Tran Van       Viet   0 15/07/1982 2  
+101        Nguyen Bui     Hoa    0 18/02/1981 3  
+102        Ho Cam         Ly     1 30/08/1982 2  
+103        Huynh Van      Khoa   0 17/04/1981 3  
+104        Huynh Minh     Hieu   1 18/04/1982 2  
+105        Huynh Thanh    Viet   0 02/02/1981 3  
+106        Le Hong        Nhung  1 01/12/1981 2  
+107        Nguyen Thi     Van    1 22/02/1982 3  
+108        Tran Van       Quang  0 24/09/1981 2  
+109        Dang Minh      Quan   0 17/02/1982 1  
+110        Le Thanh       Khoa   0 28/07/1981 2  
+111        Nguyen Tan     Tai    0 22/08/1981 2  
+112        Do Thi         Thuy   1 17/08/1982 2  
+113        Vu Van         An     0 31/01/1982 2  
+114        Nguyen Van     Thanh  0 13/11/1981 1  
+115        Bui Van        Thanh  0 12/08/1982 2  
+116        Do Phuong      Nam    0 01/01/1982 1  
+117        Truong Kieu    Oanh   1 14/09/1982 2  
+118        Tran My        Thanh  1 07/10/1981 1  
+119        Pham Van       Hoang  0 27/10/1982 1  
+120        Nguyen Thi     Nhung  1 31/10/1981 2  
+121        Nguyen Thi     Lan    1 12/11/1980 2  
+122        Nguyen Hong    Hoa    1 14/12/1981 1  
+123        Tran van       Phuong 0 16/10/1982 2  
+124        Tran Van       Minh   0 11/07/1982 1  
+125        Vo Quoc        Vuong  0 29/09/1982 2  
+126        Nguyen Thanh   Trung  0 07/12/1982 1  
+127        Nguyen Thi     Thao   1 30/01/1981 1  
+128        Vo Kim         Yen    1 16/12/1981 2  
+129        Tran Van       Son    0 20/07/1981 2  
+130        Nguyen Van     Hai    0 09/05/1981 2  
+131        Nguyen Thanh   Lam    0 24/03/1982 1  
+132        Pham Lan       Anh    1 06/10/1981 2  
+133        Nguyen Van     Doan   0 15/10/1981 1  
+134        Le Hong        Hoa    1 16/12/1981 2  
+135        Nguyen Van     Ngan   0 06/08/1981 1  
+136        Pham Hong      Chung  0 19/05/1981 2  
+137        Nguyen Hong    Hoa    1 06/09/1981 1  
+138        Le Hong        Hanh   1 16/12/1981 1  
+139        Le Anh         Thu    1 31/01/1981 1  
+140        Tran Le        Nga    1 27/11/1980 1  
+141        Nguyen Thi     Huong  1 04/04/1981 3  
+142        Vuong Cong     Hon    0 18/09/1981 3  
+143        Ta Ngoc        Dieu   0 14/08/1981 3  
+144        Nguyen Duc     Hien   0 19/04/1982 3  
+145        Nguyen Thanh   Hai    0 07/12/1981 1  
+146        Dao Thanh      Xuan   0 30/12/1980 2  
+147        Mai Ngoc       Bich   1 08/10/1981 1  
+148        Pham Thu       Han    1 04/12/1982 2  
+149        Phan Huy       Hung   0 03/02/1981 1  
+150        Nguyen Phuoc   Lam    0 05/11/1980 2  
+151        Dao Minh       Than   0 21/04/1982 1  
+152        Le Van         Dung   0 03/12/1981 2  
+153        Tran Viet      Hong   0 07/04/1982 1  
+154        Nguyen Thanh   Hao    0 20/07/1982 2  
+155        Nguyen Kim     Loan   1 19/02/1981 1  
+156        Nguyen Cong    Truong 0 11/08/1982 1  

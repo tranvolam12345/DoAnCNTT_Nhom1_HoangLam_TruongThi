@@ -1,0 +1,12 @@
+MYDATABASE
+Comment So Luong Field: 3, So Luong Mau Tin: 3
+Comment Ten Field Start Width DatType: I: SoNguyen, C: Char, F: So thuc, B: Bool, D: Ngay
+Comment Doi Tuong Du Thi, Dien Giai Doi Tuong, Diem Uu Tien
+3
+DoiTuongDT    1           3          I
+DienGiaiDT    4          50          C
+DiemUT       54          11          I
+3
+1  Doi tuong thuoc dien chinh sach                   2          
+2  Can bo, cong nhan vien chuc nha nuoc              1          
+3  Hoc sinh pho thong                                0          

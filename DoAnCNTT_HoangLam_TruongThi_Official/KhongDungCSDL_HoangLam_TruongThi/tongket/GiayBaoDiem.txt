@@ -1,0 +1,157 @@
+     SBD              Ho     Ten  Phai    NgaySinh  Toan   Van  AnhVan   DTN  TongDiem     XepLoai  DoiTuongDT
+0      1     Nguyen Viet    Hong     0  04/04/1981   8.0   5.0     8.0   5.0      21.0  Trung bình           3
+1      2     Nguyen Hong    Lanh     1  15/03/1982   6.5   7.0     5.0   5.0      20.5  Trung bình           1
+2      3     Nguyen Minh   Quang     0  10/07/1982   7.5   6.5     4.0   4.0      18.0  Trung bình           3
+3      4        Dinh Thi     Tam     1  18/02/1982   5.0   8.5     5.5   5.0      21.0  Trung bình           1
+4      5     Nguyen Hoai     Anh     1  21/08/1982   6.5   6.0     6.0   6.0      18.5  Trung bình           3
+5      6       Dang Bich    Thuy     1  22/10/1982  10.0   9.0     9.0   9.0      30.0        Giỏi           1
+6      7     Hoang Thanh   Trang     1  12/08/1982   7.0  10.0     6.5   6.5      23.5         Khá           3
+7      8        Tran Cat    Dung     1  04/12/1981  10.0   8.0     9.0   8.0      27.0        Giỏi           3
+8      9       Pham Hoai    Bong     0  11/10/1980  10.0   8.5    10.0   8.5      28.5        Giỏi           3
+9     10       Tran Minh  Nguyet     1  07/12/1981   4.5   4.0     4.0   4.0      14.5       Trượt           1
+10    11     Ma Thi Hong    Xuan     1  19/10/1981   8.0  10.0     7.0   7.0      25.0        Giỏi           3
+11    12         Le Thao    Dung     1  03/11/1982   5.0   6.5     5.5   5.0      19.0  Trung bình           1
+12    13      Luu Phuong   Thanh     1  25/02/1982   9.0   6.0     8.0   6.0      25.0         Khá           1
+13    14            Phan   Thanh     0  03/07/1981   6.0   5.5     8.0   5.5      21.5  Trung bình           1
+14    15        Pham Thu    Thuy     1  04/12/1981   8.0   6.5     7.5   6.5      24.0         Khá           1
+15    16       Dang Dinh     Tam     0  24/11/1981   4.0   6.0     5.0   4.0      17.0  Trung bình           1
+16    17        Tong Duc   Cuong     0  25/06/1982   5.0   6.5     4.0   4.0      17.5  Trung bình           1
+17    18        Tran Thu     Nga     1  14/09/1981   4.0   6.5     6.0   4.0      18.5  Trung bình           1
+18    19  Tran Thi Thanh   Giang     1  18/03/1982   4.0   6.0     6.0   4.0      18.0  Trung bình           1
+19    20      Truong Thi      My     1  16/08/1982   5.0   7.0     7.0   5.0      21.0  Trung bình           1
+20    21      Nguyen Thi     Hoa     1  27/11/1982  10.0   8.0     9.0   8.0      29.0        Giỏi           1
+21    22          Ha Son     Tri     0  27/08/1981   5.0   8.0     5.0   5.0      20.0  Trung bình           1
+22    23         Tang My    Hanh     1  28/10/1980   8.0   6.0     7.0   6.0      23.0         Khá           1
+23    24        Tran Thi     Tam     1  22/02/1982   7.0   5.0     7.0   5.0      21.0  Trung bình           1
+24    25        Pham Thi     Lua     1  24/07/1981   5.0   6.0     6.0   5.0      19.0  Trung bình           1
+25    26      Huynh Bach     Cuc     1  21/09/1980  10.0   8.5     9.0   8.5      28.5        Giỏi           2
+26    27      Nguyen Thi   Tuyet     1  20/12/1981   8.0   6.0     9.0   6.0      25.0         Khá           1
+27    28          Vu Thi      No     1  02/04/1982   6.0   8.0     4.0   4.0      20.0  Trung bình           1
+28    29         Tran My    Dung     1  12/01/1982   6.0   5.0     6.0   5.0      18.0  Trung bình           2
+29    30     Truong Minh   Thang     0  26/02/1982   6.0   6.5     6.0   6.0      19.5  Trung bình           2
+30    31          Le Kim    Thoa     1  01/04/1982   7.0   5.5     5.0   5.0      19.5  Trung bình           1
+31    32     Huynh Thanh     Nga     1  07/12/1980   6.0   6.0     4.5   4.5      17.5  Trung bình           2
+32    33        Tran Thi    Loan     1  25/11/1981   6.5   6.5     6.0   6.0      21.0         Khá           1
+33    34        Tran Thi     Nhi     1  18/11/1982   5.0   8.0     5.0   5.0      20.0  Trung bình           1
+34    35        Lam Ngoc    Quan     0  28/08/1981  10.0   8.0     9.0   8.0      28.0        Giỏi           2
+35    36     Nguyen Ngoc    Bich     1  26/08/1981   6.0   6.0     6.5   6.0      20.5  Trung bình           1
+36    37       Vuong Kim     Anh     1  18/04/1982   7.0   5.0     5.5   5.0      18.5  Trung bình           2
+37    38      Nguyen Thu     Van     1  16/09/1982   6.5   5.5     5.0   5.0      19.0  Trung bình           1
+38    39        Phan Mai  Phuong     1  11/07/1981   8.0   6.0     8.0   6.0      24.0         Khá           1
+39    40        Pham Thi     Thu     1  26/01/1982   4.0   4.0     4.0   4.0      13.0       Trượt           2
+40    41      Nguyen Thi    Dung     1  25/11/1982   5.0   7.0     7.0   5.0      21.0  Trung bình           1
+41    42       Doan Thuy   Trang     1  19/11/1982   5.5   6.5     8.0   5.5      21.0  Trung bình           2
+42    43       Hoang Van     Hoa     0  10/01/1982   9.0   7.0    10.0   7.0      27.0        Giỏi           2
+43    44      Nguyen Van    Tien     1  07/10/1981   6.0   6.0     9.0   6.0      23.0         Khá           1
+44    45     Du Thi Lieu    Dung     0  17/06/1982   8.0   5.0     7.0   5.0      21.0  Trung bình           2
+45    46         Vu Kieu    Oanh     1  09/03/1982   5.5   5.0     4.0   4.0      15.5  Trung bình           2
+46    47    Nguyen Trong  Nghiep     0  20/07/1981   9.5   8.0    10.0   8.0      28.5        Giỏi           2
+47    48     Nguyen Thuy   Huong     1  14/12/1981  10.0   8.0    10.0   8.0      30.0        Giỏi           1
+48    49         Bui Van    Hung     0  25/08/1981   6.0   7.0     5.5   5.5      20.5  Trung bình           1
+49    50         Ly Cong     Duy     0  14/02/1982  10.0   8.5     9.5   8.5      29.0        Giỏi           2
+50    51          Le Thi      Ly     1  28/05/1981   8.0   6.0     9.0   6.0      24.0         Khá           2
+51    52     Nguyen Lien  Phuong     1  17/09/1982   4.5   5.5     5.0   4.5      17.0  Trung bình           1
+52    53       Hoang Thi   Thuan     1  25/10/1981   9.0   8.5    10.0   8.5      28.5        Giỏi           2
+53    54       To Phuong     Lan     1  10/10/1982   6.5   6.5     4.0   4.0      19.0  Trung bình           1
+54    55        Tran Thi  Phuong     1  10/04/1981   7.5   4.5     6.0   4.5      19.0  Trung bình           2
+55    56     Nguyen Dong     Lan     1  29/07/1982   7.0   5.5     8.0   5.5      21.5  Trung bình           2
+56    57      Nguyen Van    Toan     0  09/06/1982   9.0   6.0     6.5   6.0      23.5         Khá           1
+57    58       Diep Thuy  Phuong     1  13/12/1981   4.0   5.5     4.0   4.0      14.5       Trượt           2
+58    59         Dao Thi     Tue     1  23/12/1982  10.0   8.5     9.0   8.5      29.5        Giỏi           1
+59    60        Tran Thi    Phan     1  24/01/1982   5.5   6.0     5.5   5.5      18.0  Trung bình           2
+60    61        Tran Thi    Thuy     1  08/11/1982   5.0   5.0     6.0   5.0      16.0  Trung bình           3
+61    62     Nguyen Mong    Kieu     1  23/08/1982   6.5   4.0     5.5   4.0      17.0  Trung bình           2
+62    63       Duong Thi    Tuoi     1  24/12/1981  10.0   6.0     7.0   6.0      23.0         Khá           3
+63    64      Nguyen Thi    Thuy     1  05/01/1982   6.0   5.0     6.0   5.0      18.0  Trung bình           2
+64    65      Nguyen Thi      Le     1  21/06/1982   4.0   6.0     4.5   4.0      14.5       Trượt           3
+65    66      Nguyen Thi    Hanh     1  19/01/1981   7.0   5.0     3.0   3.0      15.0       Trượt           3
+66    67      Nguyen Van     Tam     0  02/07/1982  10.0   9.0    10.0   9.0      29.0        Giỏi           3
+67    68        Lam Ngoc   Phuoc     0  17/02/1981   8.0   4.0     5.0   4.0      19.0  Trung bình           1
+68    69        Phan Kim     Nga     1  24/08/1982   9.0   8.0     8.0   8.0      25.0        Giỏi           3
+69    70       Huynh Thi   Huong     1  19/05/1981   5.5   5.5     7.5   5.5      20.5  Trung bình           1
+70    71      Nguyen Thu      Ha     1  03/04/1982   5.0   9.0     7.0   5.0      23.0  Trung bình           1
+71    72      Nguyen Van    Dung     0  17/12/1981   6.5   5.0     8.0   5.0      19.5  Trung bình           3
+72    73       Tran Tham    Tuoi     1  04/02/1982   6.0   7.5     8.0   6.0      23.5         Khá           1
+73    74      Duong Cong    Bang     0  27/06/1981  10.0   6.0     8.0   6.0      26.0         Khá           1
+74    75        Le Trung    Kien     0  09/02/1982   8.5   6.5     6.0   6.0      23.0         Khá           1
+75    76      Nguyen Van  Nghiep     0  14/09/1982   8.0   7.0     8.5   7.0      25.5        Giỏi           1
+76    77      Nguyen Van    Minh     0  07/02/1981   8.0   7.5     9.0   7.5      26.5        Giỏi           1
+77    78        Ho Duong   Thanh     0  09/11/1981   4.5   6.5     4.0   4.0      17.0  Trung bình           1
+78    79      Quach Kieu     Mai     1  17/02/1982  10.0   9.0    10.0   9.0      31.0        Giỏi           1
+79    80         Dao Thi  Phuong     1  29/03/1982   3.5   4.0     5.5   3.5      15.0       Trượt           1
+80    81   Tran Thi Ngoc     Han     1  26/07/1982   6.0   6.5     4.5   4.5      17.0  Trung bình           3
+81    82      Tran Tuyet     Anh     1  12/06/1982   8.0   6.0     4.0   4.0      19.0  Trung bình           2
+82    83      Nguyen Cam   Huong     1  02/03/1981   5.0   8.5     5.0   5.0      18.5  Trung bình           3
+83    84     Nguyen Ngoc   Suong     1  11/09/1981  10.0   7.0     9.0   7.0      26.0        Giỏi           3
+84    85      Nguyen Van     Loi     0  02/02/1982   7.0   7.0    10.0   7.0      26.0        Giỏi           1
+85    86      Nguyen Duc   Thang     0  24/05/1981   5.5   6.5     6.5   5.5      20.5  Trung bình           1
+86    87         Bui Thi     Hue     1  19/12/1981   8.0   4.5     8.0   4.5      22.5  Trung bình           1
+87    88        Pham Thi     Mai     1  22/08/1981   5.0   5.5     6.0   5.0      18.5  Trung bình           1
+88    89      Nguyen Thi   Huong     1  30/11/1981   4.5   6.0     5.0   4.5      17.5  Trung bình           1
+89    90        Pham Van   Trang     0  06/05/1981   4.5   6.5     4.5   4.5      17.5  Trung bình           1
+90    91       Tran Thuy    Tien     1  27/11/1980   6.0   5.0     6.5   5.0      18.5  Trung bình           2
+91    92     Nguyen Minh     Dan     0  11/12/1982   6.0   5.5     6.5   5.5      18.0  Trung bình           3
+92    93          Do Thi    Thao     1  18/10/1980   4.0   5.0     4.0   4.0      14.0       Trượt           2
+93    94        Phan Thi     Anh     1  13/07/1981   6.0   4.5     3.0   3.0      13.5       Trượt           3
+94    95        Dang Kim     Anh     1  18/10/1981   5.0   5.5     6.0   5.0      17.5  Trung bình           2
+95    96         Le Tien     Dat     0  01/12/1982   6.0   6.5     5.5   5.5      18.0  Trung bình           3
+96    97       Pham Hong   Tuyet     1  05/10/1981   8.0   6.0     7.0   6.0      22.0         Khá           2
+97    98        Pham Thi   Chien     1  29/10/1981   7.0   6.0     6.0   6.0      19.0  Trung bình           3
+98    99      Nguyen Thi    Binh     1  09/12/1982   8.0   7.0     7.0   7.0      23.0         Khá           2
+99   100        Tran Van    Viet     0  15/07/1982   6.5   5.0     3.0   3.0      15.5       Trượt           2
+100  101      Nguyen Bui     Hoa     0  18/02/1981   7.0   7.0     8.5   7.0      22.5         Khá           3
+101  102          Ho Cam      Ly     1  30/08/1982   7.0   6.5     6.0   6.0      20.5  Trung bình           2
+102  103       Huynh Van    Khoa     0  17/04/1981   6.5   4.0     4.0   4.0      14.5       Trượt           3
+103  104      Huynh Minh    Hieu     1  18/04/1982   6.5   7.0     6.5   6.5      21.0         Khá           2
+104  105     Huynh Thanh    Viet     0  02/02/1981   4.0   6.5     3.5   3.5      14.0       Trượt           3
+105  106         Le Hong   Nhung     1  01/12/1981   5.0   6.0     6.0   5.0      18.0  Trung bình           2
+106  107      Nguyen Thi     Van     1  22/02/1982   5.4   5.7     4.9   4.9      16.0  Trung bình           3
+107  108        Tran Van   Quang     0  24/09/1981   5.0   5.0     4.5   4.5      15.5  Trung bình           2
+108  109       Dang Minh    Quan     0  17/02/1982   7.0   7.0     8.0   7.0      24.0        Giỏi           1
+109  110        Le Thanh    Khoa     0  28/07/1981   5.0   6.8     5.2   5.0      18.0  Trung bình           2
+110  111      Nguyen Tan     Tai     0  22/08/1981   8.0   7.0     8.0   7.0      24.0        Giỏi           2
+111  112          Do Thi    Thuy     1  17/08/1982   5.5   5.5     7.5   5.5      19.5  Trung bình           2
+112  113          Vu Van      An     0  31/01/1982   6.0   3.0     5.0   3.0      15.0       Trượt           2
+113  114      Nguyen Van   Thanh     0  13/11/1981  10.0  10.0    10.0  10.0      32.0        Giỏi           1
+114  115         Bui Van   Thanh     0  12/08/1982   5.5   7.0     5.5   5.5      19.0  Trung bình           2
+115  116       Do Phuong     Nam     0  01/01/1982   7.5   7.0    10.0   7.0      26.5        Giỏi           1
+116  117     Truong Kieu    Oanh     1  14/09/1982  10.0   9.0     9.5   9.0      29.5        Giỏi           2
+117  118         Tran My   Thanh     1  07/10/1981   4.0   4.0     4.5   4.0      14.5       Trượt           1
+118  119        Pham Van   Hoang     0  27/10/1982   4.5   5.5     6.5   4.5      18.5  Trung bình           1
+119  120      Nguyen Thi   Nhung     1  31/10/1981   5.0   6.0     6.0   5.0      18.0  Trung bình           2
+120  121      Nguyen Thi     Lan     1  12/11/1980  10.0   8.5     9.0   8.5      28.5        Giỏi           2
+121  122     Nguyen Hong     Hoa     1  14/12/1981   6.5   6.5     6.0   6.0      21.0         Khá           1
+122  123        Tran Van  Phuong     0  16/10/1982   4.0   7.5     5.5   4.0      18.0  Trung bình           2
+123  124        Tran Van    Minh     0  11/07/1982   5.5   5.0     5.0   5.0      17.5  Trung bình           1
+124  125         Vo Quoc   Vuong     0  29/09/1982   9.0   7.0     8.0   7.0      25.0        Giỏi           2
+125  126    Nguyen Thanh   Trung     0  07/12/1982   4.5   6.5     4.5   4.5      17.5  Trung bình           1
+126  127      Nguyen Thi    Thao     1  30/01/1981   5.5   4.0     5.5   4.0      17.0  Trung bình           1
+127  128          Vo Kim     Yen     1  16/12/1981   7.0   4.0     8.0   4.0      20.0  Trung bình           2
+128  129        Tran Van     Son     0  20/07/1981   8.0   5.0     5.5   5.0      19.5  Trung bình           2
+129  130      Nguyen Van     Hai     0  09/05/1981   5.0   5.0     5.0   5.0      16.0  Trung bình           2
+130  131    Nguyen Thanh     Lam     0  24/03/1982   4.0   4.0     5.5   4.0      15.5  Trung bình           1
+131  132        Pham Lan     Anh     1  06/10/1981   4.5   4.5     6.5   4.5      16.5  Trung bình           2
+132  133      Nguyen Van    Doan     0  15/10/1981   9.0   8.0     7.5   7.5      26.5        Giỏi           1
+133  134         Le Hong     Hoa     1  16/12/1981  10.0   8.0     9.0   8.0      28.0        Giỏi           2
+134  135      Nguyen Van    Ngan     0  06/08/1981  10.0   8.5     9.0   8.5      29.5        Giỏi           1
+135  136       Pham Hong   Chung     0  19/05/1981   6.0   4.0     5.0   4.0      16.0  Trung bình           2
+136  137     Nguyen Hong     Hoa     1  06/09/1981   5.0   6.0     5.5   5.0      18.5  Trung bình           1
+137  138         Le Hong    Hanh     1  16/12/1981   6.0   5.5     6.5   5.5      20.0  Trung bình           1
+138  139          Le Anh     Thu     1  31/01/1981   6.5   9.0     6.5   6.5      24.0         Khá           1
+139  140         Tran Le     Nga     1  27/11/1980   6.5   5.5     6.5   5.5      20.5  Trung bình           1
+140  141      Nguyen Thi   Huong     1  04/04/1981   9.0   7.0     8.0   7.0      24.0        Giỏi           3
+141  142      Vuong Cong     Hon     0  18/09/1981   6.0   7.0     5.0   5.0      18.0  Trung bình           3
+142  143         Ta Ngoc    Dieu     0  14/08/1981   3.5   5.5     6.0   3.5      15.0       Trượt           3
+143  144      Nguyen Duc    Hien     0  19/04/1982   9.0   6.0     8.0   6.0      23.0         Khá           3
+144  145    Nguyen Thanh     Hai     0  07/12/1981   3.0   5.0     4.0   3.0      14.0       Trượt           1
+145  146       Dao Thanh    Xuan     0  30/12/1980   5.0   6.5     6.5   5.0      19.0  Trung bình           2
+146  147        Mai Ngoc    Bich     1  08/10/1981  10.0   8.0    10.0   8.0      30.0        Giỏi           1
+147  148        Pham Thu     Han     1  04/12/1982   9.5   8.5     9.0   8.5      28.0        Giỏi           2
+148  149        Phan Huy    Hung     0  03/02/1981   9.0   8.5    10.0   8.5      29.5        Giỏi           1
+149  150    Nguyen Phuoc     Lam     0  05/11/1980   8.0   9.0     6.0   6.0      24.0         Khá           2
+150  151        Dao Minh    Than     0  21/04/1982   5.0   5.0     6.0   5.0      18.0  Trung bình           1
+151  152          Le Van    Dung     0  03/12/1981  10.0   7.0     7.0   7.0      25.0        Giỏi           2
+152  153       Tran Viet    Hong     0  07/04/1982   7.5   6.0     8.0   6.0      23.5         Khá           1
+153  154    Nguyen Thanh     Hao     0  20/07/1982   4.0   5.5     7.0   4.0      17.5  Trung bình           2
+154  155      Nguyen Kim    Loan     1  19/02/1981   7.0   5.5     3.5   3.5      18.0       Trượt           1
+155  156     Nguyen Cong  Truong     0  11/08/1982   4.0   7.5     5.0   4.0      18.5  Trung bình           1

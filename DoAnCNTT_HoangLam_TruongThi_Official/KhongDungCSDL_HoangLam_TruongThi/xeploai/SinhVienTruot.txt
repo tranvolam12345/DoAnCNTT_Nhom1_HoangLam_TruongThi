@@ -1,0 +1,17 @@
+     SBD            Ho     Ten Phai    NgaySinh Toan  Van AnhVan  DTN TongDiem XepLoai  DoiTuongDT
+152  155    Nguyen Kim    Loan    1  19/02/1981  7.0  5.5    3.5  3.5     18.0   Trượt           1
+77    80       Dao Thi  Phuong    1  29/03/1982  3.5  4.0    5.5  3.5     15.0   Trượt           1
+7     10     Tran Minh  Nguyet    1  07/12/1981  4.5  4.0    4.0  4.0     14.5   Trượt           1
+115  118       Tran My   Thanh    1  07/10/1981  4.0  4.0    4.5  4.0     14.5   Trượt           1
+142  145  Nguyen Thanh     Hai    0  07/12/1981  3.0  5.0    4.0  3.0     14.0   Trượt           1
+97   100      Tran Van    Viet    0  15/07/1982  6.5  5.0    3.0  3.0     15.5   Trượt           2
+110  113        Vu Van      An    0  31/01/1982  6.0  3.0    5.0  3.0     15.0   Trượt           2
+55    58     Diep Thuy  Phuong    1  13/12/1981  4.0  5.5    4.0  4.0     14.5   Trượt           2
+90    93        Do Thi    Thao    1  18/10/1980  4.0  5.0    4.0  4.0     14.0   Trượt           2
+37    40      Pham Thi     Thu    1  26/01/1982  4.0  4.0    4.0  4.0     13.0   Trượt           2
+63    66    Nguyen Thi    Hanh    1  19/01/1981  7.0  5.0    3.0  3.0     15.0   Trượt           3
+140  143       Ta Ngoc    Dieu    0  14/08/1981  3.5  5.5    6.0  3.5     15.0   Trượt           3
+62    65    Nguyen Thi      Le    1  21/06/1982  4.0  6.0    4.5  4.0     14.5   Trượt           3
+100  103     Huynh Van    Khoa    0  17/04/1981  6.5  4.0    4.0  4.0     14.5   Trượt           3
+102  105   Huynh Thanh    Viet    0  02/02/1981  4.0  6.5    3.5  3.5     14.0   Trượt           3
+91    94      Phan Thi     Anh    1  13/07/1981  6.0  4.5    3.0  3.0     13.5   Trượt           3

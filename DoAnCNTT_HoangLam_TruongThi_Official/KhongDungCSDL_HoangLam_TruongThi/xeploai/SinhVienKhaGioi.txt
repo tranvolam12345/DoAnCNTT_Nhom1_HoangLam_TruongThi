@@ -1,0 +1,30 @@
+     SBD            Ho     Ten Phai    NgaySinh  Toan   Van AnhVan   DTN TongDiem XepLoai  DoiTuongDT
+71    74    Duong Cong    Bang    0  27/06/1981  10.0   6.0    8.0   6.0     26.0     Khá           1
+4      7   Hoang Thanh   Trang    1  12/08/1982   7.0  10.0    6.5   6.5     23.5     Khá           3
+60    63     Duong Thi    Tuoi    1  24/12/1981  10.0   6.0    7.0   6.0     23.0     Khá           3
+111  114    Nguyen Van   Thanh    0  13/11/1981  10.0  10.0   10.0  10.0     32.0    Giỏi           1
+76    79    Quach Kieu     Mai    1  17/02/1982  10.0   9.0   10.0   9.0     31.0    Giỏi           1
+3      6     Dang Bich    Thuy    1  22/10/1982  10.0   9.0    9.0   9.0     30.0    Giỏi           1
+45    48   Nguyen Thuy   Huong    1  14/12/1981  10.0   8.0   10.0   8.0     30.0    Giỏi           1
+144  147      Mai Ngoc    Bich    1  08/10/1981  10.0   8.0   10.0   8.0     30.0    Giỏi           1
+56    59       Dao Thi     Tue    1  23/12/1982  10.0   8.5    9.0   8.5     29.5    Giỏi           1
+114  117   Truong Kieu    Oanh    1  14/09/1982  10.0   9.0    9.5   9.0     29.5    Giỏi           2
+132  135    Nguyen Van    Ngan    0  06/08/1981  10.0   8.5    9.0   8.5     29.5    Giỏi           1
+146  149      Phan Huy    Hung    0  03/02/1981   9.0   8.5   10.0   8.5     29.5    Giỏi           1
+18    21    Nguyen Thi     Hoa    1  27/11/1982  10.0   8.0    9.0   8.0     29.0    Giỏi           1
+47    50       Ly Cong     Duy    0  14/02/1982  10.0   8.5    9.5   8.5     29.0    Giỏi           2
+64    67    Nguyen Van     Tam    0  02/07/1982  10.0   9.0   10.0   9.0     29.0    Giỏi           3
+6      9     Pham Hoai    Bong    0  11/10/1980  10.0   8.5   10.0   8.5     28.5    Giỏi           3
+23    26    Huynh Bach     Cuc    1  21/09/1980  10.0   8.5    9.0   8.5     28.5    Giỏi           2
+44    47  Nguyen Trong  Nghiep    0  20/07/1981   9.5   8.0   10.0   8.0     28.5    Giỏi           2
+50    53     Hoang Thi   Thuan    1  25/10/1981   9.0   8.5   10.0   8.5     28.5    Giỏi           2
+118  121    Nguyen Thi     Lan    1  12/11/1980  10.0   8.5    9.0   8.5     28.5    Giỏi           2
+32    35      Lam Ngoc    Quan    0  28/08/1981  10.0   8.0    9.0   8.0     28.0    Giỏi           2
+131  134       Le Hong     Hoa    1  16/12/1981  10.0   8.0    9.0   8.0     28.0    Giỏi           2
+5      8      Tran Cat    Dung    1  04/12/1981  10.0   8.0    9.0   8.0     27.0    Giỏi           3
+40    43     Hoang Van     Hoa    0  10/01/1982   9.0   7.0   10.0   7.0     27.0    Giỏi           2
+113  116     Do Phuong     Nam    0  01/01/1982   7.5   7.0   10.0   7.0     26.5    Giỏi           1
+81    84   Nguyen Ngoc   Suong    1  11/09/1981  10.0   7.0    9.0   7.0     26.0    Giỏi           3
+82    85    Nguyen Van     Loi    0  02/02/1982   7.0   7.0   10.0   7.0     26.0    Giỏi           1
+8     11   Ma Thi Hong    Xuan    1  19/10/1981   8.0  10.0    7.0   7.0     25.0    Giỏi           3
+149  152        Le Van    Dung    0  03/12/1981  10.0   7.0    7.0   7.0     25.0    Giỏi           2
